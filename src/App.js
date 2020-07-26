@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import Parent from './parent';
 import CounterContext from './counterContext';
-import counterReducer from './counterReducer';
+
 import './App.css';
 
 function App() {
